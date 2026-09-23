@@ -1,7 +1,7 @@
 import React from "react";
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-import back from '../../assets/back.jpg'
+import back from '../../assets/back.JPG'
 
 const About = () => {
 return(
